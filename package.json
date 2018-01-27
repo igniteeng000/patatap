@@ -1,0 +1,21 @@
+{
+  "name": "patatap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "paper-full.js",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/igniteeng000/patatap.git"
+  },
+  "author": "igniteeng000",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/igniteeng000/patatap/issues"
+  },
+  "homepage": "https://github.com/igniteeng000/patatap#readme"
+}
